@@ -1,11 +1,11 @@
-About r-ggmulti
-===============
+About r-ggmulti-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ggmulti-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=ggmulti
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ggmulti-feedstock/blob/main/LICENSE.txt)
 
 Summary: It provides materials (i.e. 'serial axes' objects, Andrew's plot, various glyphs for scatter plot) to visualize high dimensional data.
 
