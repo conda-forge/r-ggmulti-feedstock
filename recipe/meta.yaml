@@ -25,12 +25,12 @@ requirements:
   host:
     - r-base
     - r-dplyr
-    - r-ggplot2
+    - r-ggplot2 <4
     - r-tidyr
   run:
     - r-base
     - r-dplyr
-    - r-ggplot2
+    - r-ggplot2 <4
     - r-tidyr
 
 test:
