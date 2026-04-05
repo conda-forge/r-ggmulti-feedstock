@@ -1,4 +1,4 @@
-{% set version = "1.0.8" %}
+{% set version = "1.0.9" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,7 +9,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/ggmulti_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/ggmulti/ggmulti_{{ version }}.tar.gz
-  sha256: df4e8e85f51d698322490c1f90ce5a0f43fa5ed01f8c0fe1463fc7703415a652
+  sha256: e58e71a1f93b74f0eb755a5dd46e7e05c1b9c0bba3203958791d57146c96ce91
 
 build:
   number: 0
